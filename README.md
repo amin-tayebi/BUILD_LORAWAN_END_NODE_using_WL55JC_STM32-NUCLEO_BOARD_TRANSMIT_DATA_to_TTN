@@ -1,6 +1,7 @@
 # BUILD_LORAWAN_END_NODE_using_WL55JC_STM32-NUCLEO_BOARD_TRANSMIT_DATA_to_TTN
 
 <b>🔥 GOAL of the project</b>
+
 BUILD LORAWAN END NODE using WL55JC STM32-NUCLEO BOARD and TRANSMIT DATA to TTN (TTI) NETWORK SERVER
 
 
@@ -15,7 +16,7 @@ BUILD LORAWAN END NODE using WL55JC STM32-NUCLEO BOARD and TRANSMIT DATA to TTN 
 I also put a link below how to add gateway in the TTN new platform.
 One of the most energy efficient boards between Dragino, Pycome, Arduino, Raspberry pi,  Adafruit, Esp32 and Semtech in 2021 is stm32-nucleo-wl55Jc. It is one of the best choices in case of performance too. It includes all necessary pins and equipment to make and prototype a lorawan and other prototyping.
 
-<b>Notes:</b>
+<b>Note</b>
 
 Change the Device Eui and other keys and dont let them to be default set from cube-IDE as it doesn't work.
 
