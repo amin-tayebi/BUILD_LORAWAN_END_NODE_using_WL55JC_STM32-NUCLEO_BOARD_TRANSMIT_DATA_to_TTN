@@ -4,6 +4,9 @@
 
 BUILD LORAWAN END NODE using WL55JC STM32-NUCLEO BOARD and TRANSMIT DATA to TTN (TTI) NETWORK SERVER
 
+<b>🎬 video of deploying the scenario</b>
+
+https://drive.google.com/drive/folders/193a0y-XQt243AbnOHGVEFdcdlx3MfqSE?usp=sharing
 
 <b>📚 Description</b>
 
@@ -34,11 +37,6 @@ Change the Device Eui and other keys and dont let them to be default set from cu
 - Cutecome terminal application (or any terminal application)
 
     
-<b>🎬 Tutorial video</b>
-
-https://drive.google.com/drive/folders/193a0y-XQt243AbnOHGVEFdcdlx3MfqSE?usp=sharing
-
-
 <b>👋 Additional resources</b>
 
 - Frequency setting according to your zone to set in the lora device and TTN (Frequency plan):
